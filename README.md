@@ -30,10 +30,15 @@ Soft Skills: Project Management, Problem Solving, Communication, and Leadership
   🤔**Certifications**
 
 Salesforce Certified Associate
+
 Salesforce Certified Administrator
+
 Salesforce Certified Platform Developer I
+
 Salesforce Certified AI Specialist
+
 Google Associate Cloud Engineer
+
 Copado Certified Fundamentals I
 
   🔭**Key Projects**
