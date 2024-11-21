@@ -8,16 +8,22 @@ A driven and versatile Salesforce Developer with over four years of IT experienc
 
 Master’s in Computer Science (STEM) | Expected Dec 2024
 University of Missouri, Kansas City, USA
+
 Bachelor of Engineering in Computer Science | May 2020
 Gitam University, India
 
 💬**Skills and Technologies**
 
 Programming Languages: Apex, Java, JavaScript, HTML, CSS
+
 Salesforce Expertise: Sales Cloud, Health Cloud, Marketing Cloud, Lightning Web Components (LWC), Visualforce, SOQL, Workflow, Approvals, Dashboards, Reports, Triggers
+
 Integrations: REST APIs, BULK APIs, SOAP, JSON, XML
+
 Testing Tools: Selenium, Provar, Apex Test Classes
+
 DevOps & Agile: Git CI/CD, BitBucket, Atlassian Jira & Confluence, Agile Scrum Methodology
+
 Tools: VS Code, Salesforce Inspector, Data Loader, Testmo
 Soft Skills: Project Management, Problem Solving, Communication, and Leadership
 
